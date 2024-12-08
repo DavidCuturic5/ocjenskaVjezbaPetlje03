@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\obj\Debug\ocjenskaVjezbaPetlje03.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\obj\Debug\ocjenskaVjezbaPetlje03.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\bin\Debug\ocjenskaVjezbaPetlje03.exe.config
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\bin\Debug\ocjenskaVjezbaPetlje03.exe
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\bin\Debug\ocjenskaVjezbaPetlje03.pdb
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\obj\Debug\ocjenskaVjezbaPetlje03.exe
+C:\Users\Gigabyte\source\repos\ocjenskaVjezbaPetlje03\ocjenskaVjezbaPetlje03\obj\Debug\ocjenskaVjezbaPetlje03.pdb
